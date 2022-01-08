@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @brownhilludeh
+- 👋 Hi, I’m Brownhill UDEH
 I'm a Software engineer mainly working on full-stack development and helping build awesome software.
 I am good in pythn and php framworks and have gained knowledge through my professional and personal experience in software development  and programming.
 
