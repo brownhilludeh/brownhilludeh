@@ -16,6 +16,6 @@ I am good in pythn and php framworks and have gained knowledge through my profes
     
     my happy clients https://studyhabitschool.com
     https://nubischools.com.ng
-    https://gershom-goshencollege.com.ng 
+    https://gershom-goshencollege.com.ng and more.
     
    I will like to meet, we have a lot to share. 
