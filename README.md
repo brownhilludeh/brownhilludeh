@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Brownhill UDEH
+- 👋 Hi, I’m Brownhill UDEH.
 I'm a Full-Stack developer and an ICT instructor. 
 I am good in PHP,HTML and CSS, JS, Laravel and other php framworks and have gained knowledge through my professional and personal experience in software development and programming.
 
